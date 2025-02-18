@@ -1,6 +1,6 @@
 ## Hiya :wave: I'm Amaya :t-rex:
 
-I work at the intersection of :computer: AI, :pill: medicine and :seedling: biology! 
+I work at the intersection of :computer: AI, :seedling: biology and :pill: medicine! 
 
 I live and work in hope AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨ :dizzy:
 
