@@ -1,5 +1,7 @@
 ## :t-rex:
 
+I work at the intersection of :computer: AI, :pill: medicine and :seedling: biology! I live in hope that AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨:dizzy:
+
 <!--
 **AmayaGS/AmayaGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
