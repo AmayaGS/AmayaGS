@@ -4,7 +4,7 @@ I work at the intersection of AI and biology!
 
 I've developed interpretable deep learning algorithms for biomedical data, with expertise in histopathology and transcriptomics for biomarker discovery and patient stratification in cancer and immunology. 
 
-I'm now focusing on modelling cell-cell interactions, biology Foundation models and information propagation in biological systems ✨ :dizzy:
+I'm now focusing on biology Foundation models and information propagation in biological systems ✨ :dizzy:
 
 <!--
 **AmayaGS/AmayaGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
